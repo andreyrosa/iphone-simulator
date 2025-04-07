@@ -1,4 +1,4 @@
-![DiagramaUML](https://github.com/user-attachments/assets/eb1d3c28-7912-4549-819d-d957196dcad0)#  iPhone
+#  iPhone
 Projeto desenvolvido como desafio prático para aplicar os conceitos de Programação Orientada a Objetos (POO) e modelagem UML com Java, inspirado na apresentação histórica do iPhone por Steve Jobs.
 
 #  🧠 DIO Desafio
@@ -43,6 +43,7 @@ Edit
 ##############################################################################
 
 # 🔍 Diagrama UML
-![DiagramaUML](https://github.com/user-attachments/assets/5a0fe576-7aaf-4f45-aadf-aa4cb7af9d6f)
+![DIAGRAMAUML1](https://github.com/user-attachments/assets/fdbec124-41df-4021-9e6b-1df7fa1a0b73)
+
 
 
