@@ -1,5 +1,5 @@
 #  iPhone
-Projeto desenvolvido como desafio prático para aplicar os conceitos de Programação Orientada a Objetos (POO) e modelagem UML com Java, inspirado na apresentação histórica do iPhone por Steve Jobs.
+Projeto desenvolvido como desafio prático para aplicar os conceitos de Programação Orientada a Objetos (POO) e modelagem UML com Java, inspirado na apresentação histórica do primeiro iPhone por Steve Jobs ([Video](https://www.youtube.com/watch?v=VQKMoT-6XSg)).
 
 #  🧠 DIO Desafio
 #### O iPhone foi apresentado como um dispositivo revolucionário com três funcionalidades principais:
