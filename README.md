@@ -1,5 +1,4 @@
-
-#  iPhone
+![DiagramaUML](https://github.com/user-attachments/assets/eb1d3c28-7912-4549-819d-d957196dcad0)#  iPhone
 Projeto desenvolvido como desafio prático para aplicar os conceitos de Programação Orientada a Objetos (POO) e modelagem UML com Java, inspirado na apresentação histórica do iPhone por Steve Jobs.
 
 #  🧠 DIO Desafio
@@ -44,3 +43,7 @@ Edit
 ##############################################################################
 
 # 🔍 Diagrama UML
+![U<?xml version="1.0" encoding="utf-8"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.
+RequestId:8b10fa97-401e-00b8-04f1-a7fcf9000000
+Time:2025-04-07T19:12:40.7853619Z</Message><AuthenticationErrorDetail>Signed expiry time [Mon, 07 Apr 2025 15:16:14 GMT] must be after signed start time [Mon, 07 Apr 2025 19:12:40 GMT]</AuthenticationErrorDetail></Error>ploading DiagramaUML.png…]()
+
